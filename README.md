@@ -1,5 +1,6 @@
-### Hi there 👋
+<img src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true">
 
+<h1 align="center">  Hi, This is Fevzi</h1>
 <!--
 **avcibasi/avcibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
