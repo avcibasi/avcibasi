@@ -1,6 +1,6 @@
+<div style="display: grid; place-items: center;">
 
-<div style="display: flex; justify-content: center;">
-<img  align="justify" src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true">
+<img  align="center" src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true">
 </div>
 <h1 align="center">  Hi, This is Fevzi</h1>
 <h3 align="center">  You can call me "QA, SDET, or just Tester part of the team". </h1>
