@@ -1,6 +1,5 @@
-<div style="display: grid; place-items: center;">
-
-<img  align="center" src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true">
+<div style="text-align: center;">
+<img  align="center" src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true"style="margin-left: auto; margin-right: auto;>
 </div>
 <h1 align="center">  Hi, This is Fevzi</h1>
 <h3 align="center">  You can call me "QA, SDET, or just Tester part of the team". </h1>
@@ -8,6 +7,7 @@
 
 <!--
 **avcibasi/avcibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
