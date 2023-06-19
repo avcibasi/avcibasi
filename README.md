@@ -8,12 +8,11 @@
 <h3 align="center">  You can call me "QA, SDET, or just a Tester part of the team". </h1>
 <p align="justify">I m the guy test everything, what you see, what you have, even testing the test, more then decades experience. By combining manual and automated testing tools </p>
 
-<P>
-  AboutAbout
-Languages : JAVA, Javascript, SQL, HTML, CSS, Gherkin(cucumber), XML, JSON.
-Framework : JUnit framework, TestNG, Cucumber.
-Design Pattern : Page Object Model
-Tools :
+<P>Languages : JAVA, Javascript, SQL, HTML, CSS, Gherkin(cucumber), XML, JSON.</P>
+<p>Framework : JUnit framework, TestNG, Cucumber.</p>
+<P>Design Pattern : Page Object Model</P>
+<p>Tools :</p>
+<ul>
 Selenium WebDriver : Used to automate web based application
 Maven : JAVA project build tool.-maven is used to create, run, deploy projects. Makes project
 build process easier.
@@ -26,7 +25,7 @@ Database : Automation of database testing using JDBC library. Database: mysql da
 Manual database testing using intelliJ, SQL developer, PostGRE sql.
 Jenkins : Continuous integration(CI), Continuous Deployment(CD) tool
 Selenium Grid : remote testing / cross browser testing / parallel testing
-</P>
+</ul>
 <!--
 **avcibasi/avcibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
