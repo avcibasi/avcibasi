@@ -5,8 +5,8 @@
 </div>
 
 <h1 align="center">  Hi, This is Fevzi</h1>
-<h3 align="center">  You can call me "QA, SDET, or just a Tester part of the team". </h1>
-<p align="justify">I m the guy test everything, what you see, what you have, even testing the test, more then decades experience. By combining manual and automated testing tools </p>
+<h3 align="center">  You can call me "QA, SDET, or simply a Tester who is part of the team". </h1>
+<p align="justify">I m the guy test everything, what you see, what you have, even evaluating  the test, more then decades experience. By combining manual and automated testing tools </p>
 
 <P>Languages : JAVA, Javascript, SQL, HTML, CSS, Gherkin(cucumber), XML, JSON.</P>
 <p>Framework : JUnit framework, TestNG, Cucumber.</p>
