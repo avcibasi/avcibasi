@@ -13,19 +13,19 @@
 <P>Design Pattern : Behaviour-Driven Development (BDD), Page Object Model (POM)
 </P>
 <p>Tools :</p>
-<ul>
-Selenium WebDriver : Used to automate web based application
-Maven : JAVA project build tool.-maven is used to create, run, deploy projects. Makes project
-build process easier.
-Jira : Project management tool.
-Version Control System: Git(local) / Github(cloud) / BitBucket (good integration with JIRA)
-API: I am using Rest API
-Postman : Manual API testing tool
-Rest Assured : API test automation library
-Database : Automation of database testing using JDBC library. Database: mysql database
-Manual database testing using intelliJ, SQL developer, PostGRE sql.
-Jenkins : Continuous integration(CI), Continuous Deployment(CD) tool
-Selenium Grid : remote testing / cross browser testing / parallel testing
+
+<ul>Selenium WebDriver : Used to automate web based application</ul>
+<ul>Maven : JAVA project build tool.-maven is used to create, run, deploy projects. Makes project
+build process easier.</ul>
+<ul>Jira : Project management tool.</ul>
+<ul>Version Control System: Git(local) / Github(cloud) </ul>
+<ul>API: I am using Rest API</ul>
+<ul>Postman : Manual API testing tool</ul>
+<ul>Rest Assured : API test automation library</ul>
+<ul>Database : Automation of database testing using JDBC library. Database: mysql database</ul>
+<ul>Manual database testing using intelliJ, SQL developer, PostGRE sql.</ul>
+<ul>Jenkins : Continuous integration(CI), Continuous Deployment(CD) tool</ul>
+<ul>Selenium Grid : remote testing / cross browser testing / parallel testing
 </ul>
 <!--
 **avcibasi/avcibasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
