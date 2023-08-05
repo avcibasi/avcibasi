@@ -20,7 +20,7 @@ build process easier.</ul>
 <ul>Jira : Project management tool.</ul>
 <ul>Version Control System: Git(local) / Github(cloud) </ul>
 <ul>API: I am using Rest API</ul>
-<ul>Postman : Manual API testing tool</ul>
+<ul>Postman : Manual API testing tool  </ul>
 <ul>Rest Assured : API test automation library</ul>
 <ul>Database : Automation of database testing using JDBC library. Database: mysql database</ul>
 <ul>Manual database testing using intelliJ, SQL developer, PostGRE sql.</ul>
