@@ -10,7 +10,7 @@
 
 <P>Languages : JAVA, Javascript, SQL, HTML, CSS, Gherkin(cucumber), XML, JSON.</P>
 <p>Framework : JUnit framework, TestNG, Cucumber.</p>
-<P>Design Pattern : Behaviour-Driven Development (BDD), Page Object Model (POM)
+<P>Design Pattern : Behaviour-Driven Development (BDD), Page Object Model (POM) 
 </P>
 <p>Tools : </p>
 
