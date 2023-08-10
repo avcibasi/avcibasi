@@ -11,7 +11,7 @@
 <P>Languages : JAVA, Javascript, SQL, HTML, CSS, Gherkin(cucumber), XML, JSON.</P>
 <p>Framework : JUnit framework, TestNG, Cucumber.</p>
 <P>Design Pattern : Behaviour-Driven Development (BDD), Page Object Model (POM) 
-</P>
+ </P>
 <p>Tools : </p>
 
 <ul>Selenium WebDriver : Used to automate web based application</ul>
