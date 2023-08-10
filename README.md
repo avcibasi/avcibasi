@@ -12,7 +12,7 @@
 <p>Framework : JUnit framework, TestNG, Cucumber.</p>
 <P>Design Pattern : Behaviour-Driven Development (BDD), Page Object Model (POM) 
  </P>
-<p>Tools : </p>
+<p>Tools :  </p>
 
 <ul>Selenium WebDriver : Used to automate web based application</ul>
 <ul>Maven : JAVA project build tool.-maven is used to create, run, deploy projects. Makes project
