@@ -2,7 +2,7 @@
   
   <img src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true" alt="Your Image" style="margin-left: auto; margin-right: auto;">
 
-</div>
+</div> 
 
 <h1 align="center">  Hi, This is Fevzi</h1>
 <h3 align="center">  You can call me <em>"QA, QA Engineer, QA Analyst, Software Engineer in Test, SDET, or simply a Tester who is part of the team".</em> </h3>
