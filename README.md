@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+ <div style="text-align: center;">
   
   <img src="https://github.com/avcibasi/avcibasi/blob/main/JXA0.gif?raw=true" alt="Your Image" style="margin-left: auto; margin-right: auto;">
 
