@@ -14,7 +14,7 @@
 </P>
 <p>Tools :</p>
 
-<ul>Selenium WebDriver : Used to automate web based application</ul>
+<ul>Selenium WebDriver : Used to automate web based application </ul>
 <ul>Maven : JAVA project build tool.-maven is used to create, run, deploy projects. Makes project
 build process easier.</ul>
 <ul>Jira : Project management tool.</ul>
