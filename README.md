@@ -39,7 +39,10 @@
 <ul>Selenium Grid : remote testing / cross browser testing / parallel testing</ul>
 </section>
 <br>
-<a href="https://www.linkedin.com/in/fevziavcibasi/" align:center> My Linkedin profile </a>
+<a href="https://www.linkedin.com/in/fevziavcibasi/" style="font-size: 30px;background-color: cornsilk;align-items: center;">
+   My Linkedin profile</a>
+<br>
+<br>
 <br>
 <img class="img2" src="img/Q4v.gif" alt="Your Image" align:center>
    <br>
