@@ -9,7 +9,7 @@
  <div style="text-align: center;">
   <body class="body">
   <img class="img1" src="img/JXA0.gif" alt="Your Image">
-   <br>
+     <br>
    
 </div> 
 <section>
